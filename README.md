@@ -1,4 +1,6 @@
 # github-demo
 i am just learning github
 <br>
-Author- Charu Vishwakarma
+Author- Charu (placed)
+
+
