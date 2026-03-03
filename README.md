@@ -1,6 +1,6 @@
 # github-demo
 i am just learning github
 <br>
-Author- Charu (placed)
+Author- Charu (placed) in microsoft
 
 
